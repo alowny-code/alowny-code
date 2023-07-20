@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alowny-code
 - 👀 I’m interested in Machine Learning with python
-- 🌱 I’m currently learning Machine Language
+- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
